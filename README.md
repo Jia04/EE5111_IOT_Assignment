@@ -18,3 +18,5 @@ Implement a simple IoT pipeline with AWS Cloud platform and visualise the data.
   c) "Patient1.csv" and "Patient2.csv" are the queried data from DynamoDB which tie to a) and b).
   d) "ecg_mh.csv" and "label_mh.csv" are the randomly selected subset of the entire PTB ECG data (available at PhysioNet),
      which is used to train several baseline machine learning models.
+
+7. Report is available at https://medium.com/@yaojia04/ee5111-special-topics-in-industrial-control-and-instrumentation-57032e45130f
